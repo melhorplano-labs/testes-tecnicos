@@ -1,6 +1,7 @@
 # Teste Técnico – Desenvolvedor Backend
 
-**Tempo estimado de conclusão**: até 3 horas  
+**Tempo estimado de conclusão**: até 3 horas
+**Prazo de entrega**: até 2 dias úteis  
 **Entrega**: publique o repositório como privado no GitHub e adicione renan.bessa@melhorplano.net e henrique@melhorplano.net como colaboradores.
 
 ---
