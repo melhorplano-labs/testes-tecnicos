@@ -1,4 +1,4 @@
-# Teste Técnico – Desenvolvedor Backend
+# Teste técnico – Desenvolvedor Backend
 
 **Tempo estimado de conclusão**: até 3 horas  
 **Prazo de entrega**: até 2 dias úteis  
@@ -103,7 +103,7 @@ Após concluir o desafio, publique o repositório como privado no GitHub e adici
 
 ---
 
-## Observação Final
+## Observação
 
-Sabemos que ferramentas de IA podem ser úteis para consulta, mas este desafio será complementado por uma **rápida conversa técnica com o tech lead e gestor**, onde vamos explorar suas decisões e domínio do que foi implementado.  
+Sabemos que ferramentas de IA podem ser úteis para consulta, mas este desafio será complementado por uma rápida conversa técnica com o tech lead e gestor, onde vamos explorar suas decisões e domínio do que foi implementado.  
 Nosso objetivo é encontrar alguém que resolva problemas reais com clareza, lógica e visão de produto — como fazemos todos os dias aqui na MelhorPlano.net!
