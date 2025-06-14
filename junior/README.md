@@ -1,4 +1,4 @@
-# Teste técnico – Desenvolvedor Júnior
+# Teste Técnico – Desenvolvedor Júnior
 
 ## Objetivo do teste
 
@@ -87,8 +87,6 @@ De 2 a 3 horas
 
 ## Entrega
 
-Este teste será feito diretamente em um repositório base de testes técnicos da MelhorPlano, que vamos compartilhar com você.
-
 **Ao receber o teste:**
 
 1. Faça o clone deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
@@ -100,7 +98,7 @@ Este teste será feito diretamente em um repositório base de testes técnicos d
 > **Importante:**  
 > Trate o processo como um fluxo de trabalho real. Vamos avaliar também sua organização de branch, qualidade da descrição do PR e clareza na explicação das suas decisões.
 
-## Observação importante
+## Observação importante - Uso de IA
 
 Queremos avaliar o seu raciocínio lógico, pensamento crítico e capacidade real de resolução de problemas.
 
@@ -110,6 +108,6 @@ O que queremos evitar é o uso excessivo ou automático da IA, principalmente na
 
 Nosso time técnico e gestor vai revisar com atenção o seu teste e temos experiência para perceber quando o código não reflete o nível de raciocínio esperado.
 
-Se você avançar para a próxima etapa, vamos explorar o seu raciocínio durante a entrevista, revisando suas decisões técnicas no teste e abordando outros desafios. Por isso, é importante que tudo o que você entregar reflita de fato o seu conhecimento e a sua forma de pensar.
+Se você avançar para a próxima etapa, vamos explorar o seu raciocínio durante a entrevista, revisando suas decisões técnicas no teste. Por isso, é importante que tudo o que você entregar reflita de fato o seu conhecimento e a sua forma de pensar.
 
 > Este é um teste individual. Por favor, não peça ajuda a outras pessoas durante a execução.
