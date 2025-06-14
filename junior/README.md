@@ -88,7 +88,7 @@ Este teste será feito diretamente em um repositório base de testes técnicos d
 2. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-melhorplano`).
 3. Realize todas as implementações solicitadas nas instruções acima.
 4. Abra um Pull Request da sua branch para a branch principal (`main`) dentro do mesmo repositório.
-5. Marque o usuário `tech-evaluators` como revisor do seu PR.
+5. Marque o usuário `melhorplano-labs/technical-test-evaluators` como revisor do seu PR.
 
 > **Importante:**  
 > Trate o processo como um fluxo de trabalho real. Vamos avaliar também sua organização de branch, qualidade da descrição do PR e clareza na explicação das suas decisões.
