@@ -46,7 +46,7 @@ Os editores de conteúdo precisam de uma forma de destacar alguns planos para qu
 
 ### 3. Pequeno Refactor – Melhorar legibilidade e organização de uma função existente
 
-No backend, existe uma função chamada `handleThing()`, que atualmente é responsável por buscar os planos disponíveis. Além do nome confuso, o código dessa função está com alguns pontos que podem ser melhorados em termos de clareza, legibilidade e boas práticas.
+No backend, existe uma função chamada `handleThing()`, que atualmente é responsável por realizar uma série de filtros. Além do nome e lógica confusa, quem ler essa função não tá claro qual a real responsabilidade.
 
 **Sua tarefa:**
 
