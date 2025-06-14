@@ -105,4 +105,4 @@ Nosso time técnico e gestor vai revisar com atenção o seu teste e temos exper
 
 Se você avançar para a próxima etapa, vamos explorar o seu raciocínio durante a entrevista, revisando suas decisões técnicas no teste e abordando outros desafios. Por isso, é importante que tudo o que você entregar reflita de fato o seu conhecimento e a sua forma de pensar.
 
-## Este é um teste individual. Por favor, não peça ajuda a outras pessoas durante a execução.
+> Este é um teste individual. Por favor, não peça ajuda a outras pessoas durante a execução.
