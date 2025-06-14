@@ -88,7 +88,7 @@ Este teste será feito diretamente em um repositório base de testes técnicos d
 2. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-melhorplano`).
 3. Realize todas as implementações solicitadas nas instruções acima.
 4. Abra um Pull Request da sua branch para a branch principal (`main`) dentro do mesmo repositório.
-5. Marque o usuário `avaliadores-melhorplano` como revisor do seu PR.
+5. Marque o usuário `tech-evaluators` como revisor do seu PR.
 
 > **Importante:**  
 > Trate o processo como um fluxo de trabalho real. Vamos avaliar também sua organização de branch, qualidade da descrição do PR e clareza na explicação das suas decisões.
@@ -104,3 +104,5 @@ O que queremos evitar é o uso excessivo ou automático da IA, principalmente na
 Nosso time técnico e gestor vai revisar com atenção o seu teste e temos experiência para perceber quando o código não reflete o nível de raciocínio esperado.
 
 Se você avançar para a próxima etapa, vamos explorar o seu raciocínio durante a entrevista, revisando suas decisões técnicas no teste e abordando outros desafios. Por isso, é importante que tudo o que você entregar reflita de fato o seu conhecimento e a sua forma de pensar.
+
+## Este é um teste individual. Por favor, não peça ajuda a outras pessoas durante a execução.
