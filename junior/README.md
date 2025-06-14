@@ -84,7 +84,7 @@ Este teste será feito diretamente em um repositório base de testes técnicos d
 
 **Ao receber o teste:**
 
-1. Faça o clone deste repositório: [https://github.com/melhorplano/melhorplano-coding-challenge](https://github.com/melhorplano/melhorplano-coding-challenge)
+1. Faça o clone deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
 2. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-melhorplano`).
 3. Realize todas as implementações solicitadas nas instruções acima.
 4. Abra um Pull Request da sua branch para a branch principal (`main`) dentro do mesmo repositório.
