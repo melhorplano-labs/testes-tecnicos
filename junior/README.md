@@ -44,13 +44,20 @@ Os editores de conteúdo precisam de uma forma de destacar alguns planos para qu
 
 > **Dica:** Pense na organização do código (ex: separar lógica de controller, service, etc., mesmo que de forma simples).
 
-### 3. Pequeno refactor – Melhorar nome de uma função confusa
+### 3. Pequeno Refactor – Melhorar legibilidade e organização de uma função existente
 
-No backend, existe uma função chamada `handleThing()`, que na prática é responsável por buscar os planos disponíveis.
+No backend, existe uma função chamada `handleThing()`, que atualmente é responsável por buscar os planos disponíveis. Além do nome confuso, o código dessa função está com alguns pontos que podem ser melhorados em termos de clareza, legibilidade e boas práticas.
 
 **Sua tarefa:**
 
-- Refatore o nome dessa função para algo mais claro, semântico e alinhado a boas práticas de código limpo.
+- Renomear a função para um nome mais claro e semântico, que reflita de forma objetiva o que ela faz.
+- Reorganizar o corpo da função, aplicando melhorias de legibilidade e manutenibilidade como:
+  - Melhorar nomes de variáveis
+  - Quebrar trechos de código grandes em funções menores, se fizer sentido
+  - Tornar os fluxos de decisão mais claros
+- Garantir que o comportamento da função permaneça o mesmo após o refactor (ou seja, ela deve continuar retornando os planos corretamente).
+
+> **Dica:** Queremos ver sua capacidade de entender o código, fazer pequenas melhorias e deixar o fluxo mais limpo e fácil de manter.
 
 ### 4. Documentação – Escreva uma boa descrição de Pull Request
 
