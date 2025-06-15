@@ -17,57 +17,51 @@ Queremos avaliar sua capacidade de:
 
 Você acaba de entrar para o time de desenvolvimento do MelhorPlano.net, um comparador de planos telecom, streaming e financeiro.
 
-No teste de hoje, você vai trabalhar em uma pequena aplicação interna que simula um sistema de consulta de planos de internet.
+Assim, sendo, segue abaixo alguns desafios de uma pequena aplicação interna que simula um sistema de consulta de planos de internet.
 
-## Instruções do teste
+## Desafios
 
 ### 1. Bug Fix – Corrigir problema na listagem de planos
 
 Atualmente, quando alguém acessa a lista de planos de internet disponíveis, a página exibe uma lista vazia.
 
-**Sua tarefa:**
+**Tarefa:**
 
 - Investigar o motivo
 - Corrigir o problema
 - Garantir que os planos cadastrados no backend apareçam corretamente no frontend
-
-> **Dica:** Antes de corrigir, descreva brevemente no PR qual era o problema e o motivo da falha.
+- Descreva brevemente no PR qual era o problema e o motivo da falha.
 
 ### 2. Nova feature – Marcar plano como destaque
 
 Os editores de conteúdo precisam de uma forma de destacar alguns planos para que apareçam primeiro na lista.
 
-**Sua tarefa:**
+**Tarefa:**
 
 - Criar um endpoint no backend (exemplo: `PATCH /plans/:id/highlight`) para permitir que um plano seja marcado como destaque
 - No frontend, exibir um selo "Plano em Destaque" ao lado dos planos com esse status
-
-> **Dica:** Pense na organização do código (ex: separar lógica de controller, service, etc., mesmo que de forma simples).
 
 ### 3. Pequeno Refactor – Melhorar legibilidade e organização de uma função existente
 
 No backend, existe uma função chamada `handleThing()`, que atualmente é responsável por realizar uma série de filtros. Além do nome e lógica confusa, quem ler essa função não tá claro qual a real responsabilidade.
 
-**Sua tarefa:**
+**Tarefa:**
 
 - Renomear a função para um nome mais claro e semântico, que reflita de forma objetiva o que ela faz.
 - Reorganizar o corpo da função, aplicando melhorias de legibilidade e manutenibilidade como:
   - Melhorar nomes de variáveis
   - Quebrar trechos de código grandes em funções menores, se fizer sentido
   - Tornar os fluxos de decisão mais claros
-- Garantir que o comportamento da função permaneça o mesmo após o refactor (ou seja, ela deve continuar retornando os planos corretamente).
-
-> **Dica:** Queremos ver sua capacidade de entender o código, fazer pequenas melhorias e deixar o fluxo mais limpo e fácil de manter.
+  - Garantir que o comportamento da função permaneça o mesmo após o refactor.
 
 ### 4. Documentação – Escreva uma boa descrição de Pull Request
 
 Ao finalizar o teste, envie suas alterações em um Pull Request em uma branch separada com:
 
-- Breve explicação do que foi feito
-- Como você testou suas alterações
-- Se encontrou alguma dificuldade ou limitação, pode mencionar
+- Breve explicação do que foi feito em cada tarefa
+- Como você testou
 
-> **Dica:** Aqui vamos avaliar sua comunicação técnica objetiva e a capacidade de explicar seu raciocínio.
+> Aqui vamos avaliar sua comunicação técnica objetiva e a capacidade de explicar seu raciocínio.
 
 ## Critérios de avaliação
 
