@@ -1,25 +1,30 @@
 # Teste Técnico – Desenvolvedor Júnior
 
-## Objetivo do teste
+## Objetivos do teste
 
-Queremos avaliar sua capacidade de:
+Avaliaremos sua capacidade de:
 
-- Demonstrar excelente raciocínio lógico e capacidade de resolução de problemas
-- Noções sólidas de estrutura de dados (arrays, objetos, listas, etc)
-- Ler e entender um código existente
-- Corrigir bugs
+- Resolver problemas com raciocínio lógico
+- Demonstrar domínio em estruturas de dados
+- Ler, entender e corrigir códigos existentes
+- Implementar novas funcionalidades
 - Implementar uma nova funcionalidade
-- Ter atenção a boas práticas e organização de código
-- Escrever código limpo, claro e legível
-- Comunicar bem o que fez (via descrição de Pull Request e histórico de commits claros e frequentes)
+- Seguir boas práticas e manter código limpo
+- Comunicar claramente o que foi feito
+
+## Prazo de entrega
+
+Até 3 dias úteis a partir do recebimento deste teste.
 
 ## Contexto simulado
 
-Você acaba de entrar para o time de desenvolvimento do MelhorPlano.net, um comparador de planos telecom, streaming e financeiro.
+Você acaba de entrar para o time de desenvolvimento do MelhorPlano.net, um comparador de planos telecom.
 
-Assim, sendo, segue abaixo alguns desafios de uma pequena aplicação interna que simula um sistema de consulta de planos de internet.
+Assim sendo, segue abaixo alguns desafios de uma pequena aplicação interna que simula um sistema de consulta de planos de internet.
 
 ## Desafios
+
+> O tempo estimado para resolução dos desafios abaixo é de 2 a 3 horas.
 
 ### 1. Bug Fix – Corrigir problema na listagem de planos
 
@@ -30,7 +35,7 @@ Atualmente, quando alguém acessa a lista de planos de internet disponíveis, a 
 - Investigar o motivo
 - Corrigir o problema
 - Garantir que os planos cadastrados no backend apareçam corretamente no frontend
-- Descreva brevemente no PR qual era o problema e o motivo da falha.
+- Descreva brevemente no PR qual era o problema e o motivo do bug.
 
 ### 2. Nova feature – Marcar plano como destaque
 
@@ -39,7 +44,7 @@ Os editores de conteúdo precisam de uma forma de destacar alguns planos para qu
 **Tarefa:**
 
 - Criar um endpoint no backend (exemplo: `PATCH /plans/:id/highlight`) para permitir que um plano seja marcado como destaque
-- No frontend, exibir um selo "Plano em Destaque" ao lado dos planos com esse status
+- No frontend, exibir um selo "Plano em Destaque" ao lado dos planos com esse status.
 
 ### 3. Pequeno Refactor – Melhorar legibilidade e organização de uma função existente
 
@@ -59,9 +64,7 @@ No backend, existe uma função chamada `handleThing()`, que atualmente é respo
 Ao finalizar o teste, envie suas alterações em um Pull Request em uma branch separada com:
 
 - Breve explicação do que foi feito em cada tarefa
-- Como você testou
-
-> Aqui vamos avaliar sua comunicação técnica objetiva e a capacidade de explicar seu raciocínio.
+- Roteiro de testes: Como você testou para que possamos testar também
 
 ## Critérios de avaliação
 
@@ -74,34 +77,27 @@ Ao finalizar o teste, envie suas alterações em um Pull Request em uma branch s
 | Comunicação                     | PR objetivo, claro e direto, histórico de commits      |
 | Responsabilidade                | Não quebrar o que já funciona, testar antes de enviar  |
 
-## Tempo sugerido
-
-De 2 a 3 horas  
-(O prazo de envio será de até 2 dias úteis a partir do recebimento deste teste)
-
 ## Entrega
 
 **Ao receber o teste:**
 
 1. Faça o clone deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
 2. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
-3. Realize todas as implementações solicitadas nas instruções acima.
+3. Implemente as tarefas solicitadas acima.
 4. Abra um Pull Request da sua branch para a branch principal (`main`) dentro do mesmo repositório.
-5. Marque o usuário `melhorplano-labs/technical-test-evaluators` como revisor do seu PR.
+5. Marque `melhorplano-labs/technical-test-evaluators` como revisor do seu PR.
 
 > **Importante:**  
 > Trate o processo como um fluxo de trabalho real. Vamos avaliar também sua organização de branch, qualidade da descrição do PR e clareza na explicação das suas decisões.
 
 ## Observação importante - Uso de IA
 
-Queremos avaliar o seu raciocínio lógico, pensamento crítico e capacidade real de resolução de problemas.
+Queremos avaliar seu raciocínio e capacidade de resolver problemas. Sabemos que dúvidas pontuais podem surgir durante a implementação (ex: sintaxe ou uso de funções), e tudo bem consultar a documentação ou, se necessário, usar IA com bom senso. O importante é priorizar entender o problema antes de buscar apoio.
 
-Sabemos que durante a implementação podem surgir dúvidas pontuais (ex: lembrar a sintaxe de um comando ou consultar uma função específica), e tudo bem buscar ajuda nesses casos. O importante é que você priorize entender o problema, ler a documentação oficial da linguagem ou framework e só depois, se realmente precisar, use ferramentas de IA como apoio.
+O que queremos evitar é o uso excessivo da IA, principalmente na criação de blocos inteiros de código ou na descrição do PR, sem que você compreenda o que está fazendo.
 
-O que queremos evitar é o uso excessivo ou automático da IA, principalmente na criação de blocos inteiros de código ou na escrita da descrição do PR, sem que você entenda o que está fazendo.
+Nossa equipe analisará com atenção o seu teste e temos experiência para identificar quando a solução não reflete o nível de raciocínio esperado.
 
-Nosso time técnico e gestor vai revisar com atenção o seu teste e temos experiência para perceber quando o código não reflete o nível de raciocínio esperado.
-
-Se você avançar para a próxima etapa, vamos explorar o seu raciocínio durante a entrevista, revisando suas decisões técnicas no teste. Por isso, é importante que tudo o que você entregar reflita de fato o seu conhecimento e a sua forma de pensar.
+Se você avançar para a próxima etapa, vamos explorar o seu raciocínio durante a entrevista, revisando suas decisões técnicas no teste. Por isso, é fundamental que sua entrega reflita de fato o seu conhecimento e a sua forma de pensar.
 
 > Este é um teste individual. Por favor, não peça ajuda a outras pessoas durante a execução.
