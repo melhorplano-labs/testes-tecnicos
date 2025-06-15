@@ -63,8 +63,8 @@ No backend, existe uma função chamada `handleThing()`, que atualmente é respo
 
 Ao finalizar o teste, envie suas alterações em um Pull Request em uma branch separada com:
 
-- Breve explicação do que foi feito em cada tarefa
-- Roteiro de testes: Como você testou para que possamos testar também
+- Breve explicação do que foi feito em cada tarefa com a motivação do problema e como resolveu.
+- Roteiro de testes: Como você testou.
 
 ## Critérios de avaliação
 
