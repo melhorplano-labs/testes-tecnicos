@@ -46,7 +46,7 @@ Os editores de conteúdo precisam de uma forma de destacar alguns planos para qu
 - Criar um endpoint no backend (exemplo: `PATCH /plans/:id/highlight`) para permitir que um plano seja marcado como destaque
 - No frontend, exibir um selo "Plano em Destaque" ao lado dos planos com esse status.
 
-### 3. Pequeno Refactor – Melhorar legibilidade e organização de uma função existente
+### 3. Refactor – Melhorar legibilidade e organização de uma função existente
 
 No backend, existe uma função chamada `handleThing()`, que atualmente é responsável por realizar uma série de filtros. Além do nome e lógica confusa, quem ler essa função não tá claro qual a real responsabilidade.
 
