@@ -61,11 +61,15 @@ O objetivo é garantir que o backend esteja pronto para crescer de forma sustent
 
 ## Entrega
 
-1. Faça o clone deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
-2. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
-3. Implemente as tarefas solicitadas acima.
-4. Abra um Pull Request da sua branch para a branch principal (`main`) dentro do mesmo repositório com descrição detalhada do desafio de qual era a motivação, o problema, como resolveu e roteiro de testes.
-5. Marque `melhorplano-labs/technical-test-evaluators` como revisor do seu PR.
+Ao receber o teste:
+
+1. Faça um fork deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
+2. Clone o seu fork na sua máquina local.
+3. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
+4. Implemente as tarefas solicitadas acima.
+5. Faça o push da sua branch para o seu fork.
+6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do repositório original (upstream).
+7. Marque `melhorplano-labs/technical-test-evaluators` como revisor do seu PR.
 
 > **Importante:**  
 > Trate o processo como um fluxo de trabalho real. Avaliaremos também sua organização de branch, qualidade da descrição do PR e clareza na explicação das suas decisões.

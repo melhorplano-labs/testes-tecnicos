@@ -23,17 +23,17 @@ Avaliar sua capacidade de:
 - Comunicar claramente suas decisões técnicas
 - Propor soluções escaláveis e sustentáveis (nível Sênior)
 
-## Como Participar
+## Entrega
 
-1. **Leia atentamente o README da trilha correspondente à vaga desejada.**
-2. Faça o clone deste repositório:
-   ```bash
-   git clone https://github.com/melhorplano-labs/melhorplano-coding-challenge
-   ```
-3. Crie uma branch para suas alterações (exemplo: `feature/seu-nome-teste-nome-da-vaga`).
-4. Implemente as tarefas solicitadas no desafio.
-5. Abra um Pull Request da sua branch para a branch principal (`main`).
-6. Marque `melhorplano-labs/technical-test-evaluators` como revisor do seu PR.
+Ao receber o teste:
+
+1. Faça um fork deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
+2. Clone o seu fork na sua máquina local.
+3. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
+4. Implemente as tarefas solicitadas do seu teste enviado.
+5. Faça o push da sua branch para o seu fork.
+6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do repositório original (upstream).
+7. Marque `melhorplano-labs/technical-test-evaluators` como revisor do seu PR.
 
 > **Importante:**
 > Trate o processo como um fluxo de trabalho real. Sua organização de branch, clareza na explicação das decisões e qualidade da descrição do PR também serão avaliadas.
