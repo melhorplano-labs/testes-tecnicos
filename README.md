@@ -25,19 +25,34 @@ Avaliar sua capacidade de:
 
 ## Entrega
 
-Ao receber o teste:
+Ao receber o teste, siga um dos fluxos abaixo:
+
+### Opção 1: Envio pelo GitHub
 
 1. Faça um fork deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
 2. Clone o seu fork na sua máquina local.
 3. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
-4. Implemente as tarefas solicitadas do seu teste enviado.
+4. Implemente as tarefas solicitadas do teste enviado pelo time de R&S.
 5. Faça o push da sua branch para o seu fork.
 6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do repositório original (upstream).
-7. No comentário do Pull Request, mencione o revisor responsável (`@melhorplano-labs/technical-test-evaluators`) para avaliação.
-8. Responda ao e-mail do time de R&S, informando o link do seu Pull Request para acompanhamento do processo.
+7. Responda ao e-mail do time de R&S `recrutamento@melhorplano.net`, sinalizando que foi finalizado e o link do seu Pull Request.
+
+### Opção 2: Envio privado (se preferir não expor em seu perfil público)
+
+Sabemos que alguns candidatos preferem não expor publicamente sua participação em processos seletivos. Se for o seu caso, fique à vontade para escolher uma das opções abaixo:
+
+**Envio por e-mail:**
+
+- Envie o projeto em um arquivo `.zip` para o e-mail do time de R&S, junto com as instruções de execução.
+
+**Repositório privado no GitHub:**
+
+- Suba o projeto em um repositório privado no seu GitHub e adicione `engenharia@melhorplano.net` e `renan.bessa@melhorplano.net` como colaboradores para acesso.
+
+Se optar por qualquer alternativa privada, avise o time de R&S pelo e-mail `recrutamento@melhorplano.net` para que possamos acompanhar o seu teste normalmente.
 
 > **Importante:**
-> Trate o processo como um fluxo de trabalho real. Sua organização de branch, clareza na explicação das decisões e qualidade da descrição do PR também serão avaliadas.
+> O importante para nós é avaliar seu desafio como um todo, independente do meio de envio. Escolha a opção mais confortável para você!
 
 ## Observações Gerais
 
