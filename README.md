@@ -50,6 +50,8 @@ Ao receber o teste:
 
 Para garantir uma avaliação padronizada e justa dos testes técnicos, utilizamos um sistema de pontuação que busca medir a profundidade em cada competência essencial. A decisão final (aprovação ou reprovação) deve considerar não apenas a soma total, mas a performance em cada categoria.
 
+> Obs: não fazer merge, aprovar e/ou nenhuma ação no PR. Ao testar, analisar e revisar o PR, realizar a avaliação na planilha de avaliação conforme abaixo, atribuindo as notas em questão.
+
 **Planilha de Avaliação:**
 
 > Para registrar a avaliação, por favor, utilize o modelo da planilha. [**Clique aqui para acessar a planilha de avaliação**](https://docs.google.com/spreadsheets/d/1EnDMUBymhQImBNOzvUPRugtGvsX98mxSY0Zn9YdgxAc/edit?usp=sharing) e crie uma cópia com a avaliação do candidato.
