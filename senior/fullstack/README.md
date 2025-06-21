@@ -64,7 +64,8 @@ Ao receber o teste:
 4. Implemente as tarefas solicitadas acima.
 5. Faça o push da sua branch para o seu fork.
 6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do repositório original (upstream).
-7. Marque `melhorplano-labs/technical-test-evaluators` como revisor do seu PR.
+7. No comentário do Pull Request, mencione o revisor responsável (`@melhorplano-labs/technical-test-evaluators`) para avaliação.
+8. Responda ao e-mail do time de R&S, informando o link do seu Pull Request para acompanhamento do processo.
 
 > **Importante:**  
 > Trate o processo como um fluxo de trabalho real. Avaliaremos também sua organização de branch, qualidade da descrição do PR e clareza na explicação das suas decisões.
