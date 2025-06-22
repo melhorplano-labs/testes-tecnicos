@@ -79,43 +79,32 @@ Ao finalizar o teste, envie suas alterações em um Pull Request em uma branch s
 
 ## Entrega
 
-Ao receber o teste, siga um dos fluxos abaixo:
+Ao receber e finalizar o teste, siga um dos fluxos abaixo:
 
-### Opção 1: Envio pelo GitHub
+### Opção 1
 
 1. Faça um fork deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
 2. Clone o seu fork na sua máquina local.
 3. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
-4. Implemente as tarefas solicitadas do teste enviado pelo time de R&S.
-5. Faça o push da sua branch para o seu fork (repositório no perfil do candidato).
-6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do próprio fork (não do repositório original).
-7. Envie o link do fork (ou branch específica) para o time de R&S pelo e-mail `recrutamento@melhorplano.net`
+4. Implemente as tarefas solicitadas.
+5. Faça o push da sua branch para o seu fork no GitHub.
+6. Abra um **Pull Request** da sua branch para a branch `main` do seu fork.
+7. Envie o link do **Pull Request** para `recrutamento@melhorplano.net` e `engenharia@melhorplano.net`.
 
-### Opção 2: Envio privado (se preferir não expor em seu perfil público)
+### Opção 2
 
-Sabemos que alguns candidatos preferem não expor publicamente sua participação em processos seletivos. Se for o seu caso, fique à vontade para escolher uma das opções abaixo:
+Como alternativa, caso prefira usar um repositório privado:
 
-**Envio por e-mail:**
-
-- Envie o projeto em um arquivo `.zip` para o e-mail do time de R&S `recrutamento@melhorplano.net`, junto com as instruções de execução.
-
-**Repositório privado no GitHub:**
-
-- Suba o projeto em um repositório privado no seu GitHub e adicione `engenharia@melhorplano.net` e `renan.bessa@melhorplano.net` como colaboradores para acesso.
-
-Se optar por qualquer alternativa privada, avise o time de R&S pelo e-mail `recrutamento@melhorplano.net` para que possamos acompanhar o seu teste normalmente.
-
-> **Importante:**
-> O importante para nós é avaliar seu desafio como um todo, independente do meio de envio. Escolha a opção mais confortável para você!
+1.  Suba o código-base do desafio para um novo repositório **privado** no seu GitHub.
+2.  Crie uma nova branch para desenvolver sua solução.
+3.  Ao finalizar, abra um **Pull Request** no seu repositório privado.
+4.  Adicione `engenharia@melhorplano.net` e `renan.bessa@melhorplano.net` como colaboradores no repositório.
+5.  Envie o link do **Pull Request** para `recrutamento@melhorplano.net` e `engenharia@melhorplano.net`.
 
 ## Observação importante - Uso de IA
 
-Queremos avaliar seu raciocínio e capacidade de resolver problemas. Sabemos que dúvidas pontuais podem surgir durante a implementação (ex: sintaxe ou uso de funções), e tudo bem consultar a documentação ou, se necessário, usar IA com bom senso. O importante é priorizar entender o problema antes de buscar apoio.
+Queremos avaliar sua forma de resolver problemas. Use a documentação e a IA como apoio para dúvidas pontuais, mas evite que a ferramenta crie blocos de código ou descrições no seu lugar.
 
-O que queremos evitar é o uso excessivo da IA, principalmente na criação de blocos inteiros de código ou na descrição do PR, sem que você compreenda o que está fazendo.
-
-Nossa equipe analisará com atenção o seu teste e temos experiência para identificar quando a solução não reflete o nível de raciocínio esperado.
-
-Se você avançar para a próxima etapa, vamos explorar o seu raciocínio durante a entrevista, revisando suas decisões técnicas no teste. Por isso, é fundamental que sua entrega reflita de fato o seu conhecimento e a sua forma de pensar.
+Sua entrega deve refletir sua forma de pensar, pois discutiremos suas decisões técnicas em uma próxima etapa.
 
 > Este é um teste individual. Por favor, não peça ajuda a outras pessoas durante a execução.

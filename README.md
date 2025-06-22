@@ -24,25 +24,27 @@ Avaliar sua capacidade de:
 
 ## Entrega
 
-Ao receber o teste, siga um dos fluxos abaixo:
+Ao receber e finalizar o teste, siga um dos fluxos abaixo:
 
-### Opção 1: Envio pelo GitHub
+### Opção 1
 
 1. Faça um fork deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
 2. Clone o seu fork na sua máquina local.
 3. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
-4. Implemente as tarefas solicitadas do teste enviado pelo time de R&S.
-5. Faça o push da sua branch para o seu fork (repositório no perfil do candidato).
-6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do próprio fork (não do repositório original).
-7. Envie o link do fork (ou branch específica) para `recrutamento@melhorplano.net` e `engenharia@melhorplano.net`.
+4. Implemente as tarefas solicitadas.
+5. Faça o push da sua branch para o seu fork no GitHub.
+6. Abra um **Pull Request** da sua branch para a branch `main` do seu fork.
+7. Envie o link do **Pull Request** para `recrutamento@melhorplano.net` e `engenharia@melhorplano.net`.
 
-### Opção 2: Envio privado (se preferir não expor em seu perfil público)
+### Opção 2
 
-Caso não queira expor publicamente sua participação em processos seletivos. Se for o seu caso, fique à vontade para escolher uma das opções abaixo:
+Como alternativa, caso prefira usar um repositório privado:
 
-**Repositório privado no GitHub:**
-
-- Suba o projeto em um repositório privado no seu GitHub e adicione `engenharia@melhorplano.net` e `renan.bessa@melhorplano.net` como colaboradores.
+1.  Suba o código-base do desafio para um novo repositório **privado** no seu GitHub.
+2.  Crie uma nova branch para desenvolver sua solução.
+3.  Ao finalizar, abra um **Pull Request** no seu repositório privado.
+4.  Adicione `engenharia@melhorplano.net` e `renan.bessa@melhorplano.net` como colaboradores no repositório.
+5.  Envie o link do **Pull Request** para `recrutamento@melhorplano.net` e `engenharia@melhorplano.net`.
 
 ## Observações gerais
 
