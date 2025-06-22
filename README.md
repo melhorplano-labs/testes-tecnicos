@@ -1,6 +1,6 @@
 # MelhorPlano.net – Testes técnicos de desenvolvimento
 
-Este repositório reúne os desafios técnicos utilizados nos processos seletivos do MelhorPlano.net para diferentes níveis de desenvolvedores(as): Júnior, Pleno e Sênior (Backend e Fullstack).
+Este repositório reúne os desafios técnicos utilizados nos processos seletivos do MelhorPlano.net para diferentes níveis de desenvolvedores(as): Júnior, Pleno e Sênior.
 
 ## Estrutura do repositório
 
@@ -21,7 +21,6 @@ Avaliar sua capacidade de:
 - Corrigir bugs e implementar novas funcionalidades
 - Seguir boas práticas de desenvolvimento
 - Comunicar claramente suas decisões técnicas
-- Propor soluções escaláveis e sustentáveis (nível Sênior)
 
 ## Entrega
 
@@ -35,24 +34,15 @@ Ao receber o teste, siga um dos fluxos abaixo:
 4. Implemente as tarefas solicitadas do teste enviado pelo time de R&S.
 5. Faça o push da sua branch para o seu fork (repositório no perfil do candidato).
 6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do próprio fork (não do repositório original).
-7. Envie o link do fork (ou branch específica) para o time de R&S pelo e-mail `recrutamento@melhorplano.net`
+7. Envie o link do fork (ou branch específica) para `recrutamento@melhorplano.net` e `engenharia@melhorplano.net`.
 
 ### Opção 2: Envio privado (se preferir não expor em seu perfil público)
 
-Sabemos que alguns candidatos preferem não expor publicamente sua participação em processos seletivos. Se for o seu caso, fique à vontade para escolher uma das opções abaixo:
-
-**Envio por e-mail:**
-
-- Envie o projeto em um arquivo `.zip` para o e-mail do time de R&S `recrutamento@melhorplano.net`, junto com as instruções de execução.
+Caso não queira expor publicamente sua participação em processos seletivos. Se for o seu caso, fique à vontade para escolher uma das opções abaixo:
 
 **Repositório privado no GitHub:**
 
-- Suba o projeto em um repositório privado no seu GitHub e adicione `engenharia@melhorplano.net` e `renan.bessa@melhorplano.net` como colaboradores para acesso.
-
-Se optar por qualquer alternativa privada, avise o time de R&S pelo e-mail `recrutamento@melhorplano.net` para que possamos acompanhar o seu teste normalmente.
-
-> **Importante:**
-> O importante para nós é avaliar seu desafio como um todo, independente do meio de envio. Escolha a opção mais confortável para você!
+- Suba o projeto em um repositório privado no seu GitHub e adicione `engenharia@melhorplano.net` e `renan.bessa@melhorplano.net` como colaboradores.
 
 ## Observações gerais
 
@@ -65,7 +55,7 @@ Se optar por qualquer alternativa privada, avise o time de R&S pelo e-mail `recr
 
 Para garantir uma avaliação padronizada e justa dos testes técnicos, sem viés e de forma quantitativa, utilizamos um sistema de pontuação que busca medir a profundidade em cada questão.
 
-> Obs: Se o teste foi enviado via PR, não fazer merge, aprovar e/ou nenhuma ação no PR. Ao testar, analisar e revisar o PR, realizar a avaliação na planilha abaixo.
+> Obs: Se o teste foi enviado via PR, não realizar nenhuma ação no PR. Ao testar, analisar e revisar o mesmo, realizar a avaliação na planilha abaixo.
 
 **Planilha de avaliação:**
 
