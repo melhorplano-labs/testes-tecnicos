@@ -1,8 +1,8 @@
-# MelhorPlano.net – Testes Técnicos de Desenvolvimento
+# MelhorPlano.net – Testes técnicos de desenvolvimento
 
 Este repositório reúne os desafios técnicos utilizados nos processos seletivos do MelhorPlano.net para diferentes níveis de desenvolvedores(as): Júnior, Pleno e Sênior (Backend e Fullstack).
 
-## Estrutura do Repositório
+## Estrutura do repositório
 
 - **junior/**: Desafios para vaga de Desenvolvedor(a) Júnior
 - **pleno/**: Desafios para vaga de Desenvolvedor(a) Pleno
@@ -11,7 +11,7 @@ Este repositório reúne os desafios técnicos utilizados nos processos seletivo
 
 Cada pasta contém um README específico com o contexto, objetivos, critérios de avaliação e instruções detalhadas para o respectivo desafio.
 
-## Objetivo dos Testes
+## Objetivo dos testes
 
 Avaliar sua capacidade de:
 
