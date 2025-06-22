@@ -64,9 +64,9 @@ Ao receber o teste, siga um dos fluxos abaixo:
 2. Clone o seu fork na sua máquina local.
 3. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
 4. Implemente as tarefas solicitadas do teste enviado pelo time de R&S.
-5. Faça o push da sua branch para o seu fork.
-6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do repositório original (upstream).
-7. Responda ao e-mail do time de R&S `recrutamento@melhorplano.net`, sinalizando que foi finalizado e o link do seu Pull Request.
+5. Faça o push da sua branch para o seu fork (repositório no perfil do candidato).
+6. Abra um Pull Request da sua branch (no seu fork) para a branch principal (`main`) do próprio fork (não do repositório original).
+7. Envie o link do fork (ou branch específica) para o time de R&S pelo e-mail `recrutamento@melhorplano.net`
 
 ### Opção 2: Envio privado (se preferir não expor em seu perfil público)
 
@@ -74,7 +74,7 @@ Sabemos que alguns candidatos preferem não expor publicamente sua participaçã
 
 **Envio por e-mail:**
 
-- Envie o projeto em um arquivo `.zip` para o e-mail do time de R&S, junto com as instruções de execução.
+- Envie o projeto em um arquivo `.zip` para o e-mail do time de R&S `recrutamento@melhorplano.net`, junto com as instruções de execução.
 
 **Repositório privado no GitHub:**
 
