@@ -66,7 +66,9 @@ Ao receber e finalizar o teste, siga um dos fluxos abaixo:
 4. Implemente as tarefas solicitadas.
 5. Faça o push da sua branch para o seu fork no GitHub.
 6. Abra um **Pull Request** da sua branch para a branch `main` do seu fork.
-7. Envie o link do **Pull Request** para `suelem.ferreira@melhorplano.net`, `camila.oliveira@idinheiro.com.br` e `engenharia@melhorplano.net`.
+7. Envie o link do **Pull Request** para
+   `avaliadores.tech@melhorplano.net`,
+   `suelem.ferreira@melhorplano.net` e `camila.oliveira@idinheiro.com.br`.
 
 ### Opção 2
 
