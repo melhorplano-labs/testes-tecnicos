@@ -98,7 +98,7 @@ Como alternativa, caso prefira usar um repositório privado:
 1.  Suba o código-base do desafio para um novo repositório **privado** no seu GitHub.
 2.  Crie uma nova branch para desenvolver sua solução.
 3.  Ao finalizar, abra um **Pull Request** no seu repositório privado.
-4.  Adicione o usuário `mp-engenharia` como colaborador do repositório.
+4.  Adicione os usuários `renan.bessa@melhorplano.net` e `erick.machado@melhorplano.net` como colaboradores do repositório.
 5.  Envie o link do **Pull Request** para `avaliadores.tech@melhorplano.net`.
 
 ## Observação importante - Uso de IA
