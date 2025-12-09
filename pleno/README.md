@@ -51,6 +51,7 @@ Queremos recomendar os planos mais aderentes ao perfil e preferências do usuár
 - Foco principal no backend: entregue também um frontend simples, só para facilitar os testes e visualização da funcionalidade. Não avaliaremos design ou UX — basta ser funcional!
 - Código limpo, modular e fácil de entender
 - Testes automatizados principais cobrindo a lógica da recomendação
+- Evite alterar a estrutura dos dados mockados
 
 ### 3. Refactor – Clareza, modularização e testabilidade
 
@@ -84,6 +85,8 @@ Explique claramente o que você fez em cada tarefa:
 | Responsabilidade                | Não quebrar o que já funciona, testar antes de enviar  |
 
 ## Entrega
+
+> <span style="color: red;">⚠️ **ATENÇÃO:** Não faça o **Pull Request** para o repositório Publico da melhor plano. Apenas no seu repositório. Qualquer entrega fora do padrão, não será avaliada!</span>
 
 Ao receber e finalizar o teste, siga um dos fluxos abaixo:
 
