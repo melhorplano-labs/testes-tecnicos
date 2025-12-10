@@ -79,6 +79,8 @@ Ao finalizar o teste, envie suas alterações em um Pull Request em uma branch s
 
 ## Entrega
 
+> <span style="color: red;">⚠️ **ATENÇÃO:** Não faça o **Pull Request** para o repositório Publico da melhor plano. Apenas no seu repositório. Qualquer entrega fora do padrão, não será avaliada!</span>
+
 Ao receber e finalizar o teste, siga um dos fluxos abaixo:
 
 ### Opção 1
