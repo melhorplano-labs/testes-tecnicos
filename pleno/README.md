@@ -86,8 +86,6 @@ Explique claramente o que você fez em cada tarefa:
 
 ## Entrega
 
-> <span style="color: red;">⚠️ **ATENÇÃO:** Não faça o **Pull Request** para o repositório Publico da melhor plano. Apenas no seu repositório. Qualquer entrega fora do padrão, não será avaliada!</span>
-
 Ao receber e finalizar o teste, siga:
 
 1.  Suba o código-base do desafio para um novo repositório **privado** no seu GitHub.
