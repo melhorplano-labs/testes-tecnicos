@@ -88,27 +88,10 @@ Explique claramente o que você fez em cada tarefa:
 
 > <span style="color: red;">⚠️ **ATENÇÃO:** Não faça o **Pull Request** para o repositório Publico da melhor plano. Apenas no seu repositório. Qualquer entrega fora do padrão, não será avaliada!</span>
 
-Ao receber e finalizar o teste, siga um dos fluxos abaixo:
-
-### Opção 1
-
-1. Faça um fork deste repositório: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
-2. Clone o seu fork na sua máquina local.
-3. Crie uma nova branch para suas alterações (exemplo: `feature/nome-sobrenome-teste-nome-da-vaga`).
-4. Implemente as tarefas solicitadas.
-5. Faça o push da sua branch para o seu fork no GitHub.
-6. Abra um **Pull Request** da sua branch para a branch `main` do seu fork.
-7. Envie o link do **Pull Request** para `avaliadores.tech@melhorplano.net`.
-
-### Opção 2
-
-Como alternativa, caso prefira usar um repositório privado:
+Ao receber e finalizar o teste, siga:
 
 1.  Suba o código-base do desafio para um novo repositório **privado** no seu GitHub.
-2.  Crie uma nova branch para desenvolver sua solução.
-3.  Ao finalizar, abra um **Pull Request** no seu repositório privado.
-4.  Adicione os usuários `renan.bessa@melhorplano.net` e `erick.machado@melhorplano.net` como colaboradores do repositório.
-5.  Envie o link do **Pull Request** para `avaliadores.tech@melhorplano.net`.
+2.  Adicione os usuários `renan.bessa@melhorplano.net` e `erick.machado@melhorplano.net` como colaboradores do repositório.
 
 ## Observação importante - Uso de IA
 
