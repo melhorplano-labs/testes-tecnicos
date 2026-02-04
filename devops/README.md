@@ -13,10 +13,12 @@ O objetivo deste teste é avaliar conhecimentos práticos em:
 
 O resultado esperado é uma aplicação containerizada rodando na AWS, com infraestrutura provisionada via Terraform, deploy automatizado via CI/CD e métricas observáveis externamente.
 
-**Tempo previsto**: ~3 horas
+**Tempo previsto**: ~3 horas 
+
 **Observações**:
 - Não esperamos perfeição ou solução enterprise. Esperamos clareza técnica, boas decisões e automação funcional.
 - Uso de IA: Queremos avaliar sua forma de resolver problemas. Use a documentação e a IA como apoio para dúvidas pontuais, mas evite que a ferramenta crie blocos de código ou descrições no seu lugar.
+- Você pode tomar decisões técnicas livremente dentro da stack proposta abaixo. Caso faça escolhas arquiteturais específicas, descreva brevemente no README o motivo dessas decisões
 
 Sua entrega deve refletir sua forma de pensar, pois discutiremos suas decisões técnicas em uma próxima etapa.
 
@@ -115,9 +117,3 @@ Os critérios abaixos serão avaliados:
 - Boas práticas de monitoramento e observabilidade
 - Clareza da documentação
 - Facilidade de execução e validação da solução
-
-## Observações
-
-Você pode tomar decisões técnicas livremente dentro da stack proposta.
-Caso faça escolhas arquiteturais específicas, descreva brevemente no README o motivo dessas decisões.
-A solução deve permitir validação externa, com aplicação e métricas acessíveis via URL pública.
