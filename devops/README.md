@@ -98,7 +98,7 @@ Criar pipeline no Drone CI para:
 
 ## Entrega
 
-Repositório GitHub contendo:
+Repositório github privado compartilhado com os e-mails `renan.bessa@melhorplano.net` e `luiz.eduardo@melhorplano.net` contendo:
 
 - Código da aplicação
 - Dockerfile
