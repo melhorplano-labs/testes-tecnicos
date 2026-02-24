@@ -88,8 +88,17 @@ Explique claramente o que você fez em cada tarefa:
 
 Ao receber e finalizar o teste, siga:
 
-1.  Suba o código-base do desafio para um novo repositório **privado** no seu GitHub.
-2.  Adicione os usuários `renan.bessa@melhorplano.net` e `erick.machado@melhorplano.net` como colaboradores do repositório.
+1. Utilize o repositório base disponível em: [https://github.com/melhorplano-labs/melhorplano-coding-challenge](https://github.com/melhorplano-labs/melhorplano-coding-challenge)
+
+2. Clone o repositório para sua máquina local.
+
+3. Crie um novo repositório privado na sua conta do GitHub.
+
+4. Suba o código do desafio para esse repositório privado.
+
+5. Implemente as tarefas solicitadas diretamente nesse seu repositório privado.
+
+6. Ao finalizar, adicione os usuários `renan.bessa@melhorplano.net` e `erick.machado@melhorplano.net` como colaboradores do repositório.
 
 ## Observação importante - Uso de IA
 
